@@ -13,3 +13,27 @@ MAX7219 Dot Matrix Module 32x8: available in red, blue and green
 ![image](https://user-images.githubusercontent.com/20911308/208875880-30d7436f-d073-49aa-9235-d5d5ef22ec02.png)  
 https://s.click.aliexpress.com/e/_DeS8RuL  
 
+### Software
+Marco Colli's (MajicDesigns) MD_Paraola library  
+![image](https://user-images.githubusercontent.com/20911308/208876666-c7ff3bc9-05e4-4628-819b-8af8f1fd5042.png)  
+https://github.com/MajicDesigns/MD_Parola  
+If you like and use this library please consider making a small donation using PayPal (see the link in his GitHub page)  
+(And before you ask, of course I have donated! 👍)
+
+More information (including all links, sketches & PDFs in my GitHub):
+
+► List of all my videos  
+(Special thanks to Michael Kurt Vogel for compiling this)  
+http://bit.ly/YouTubeVideoList-RalphBacon  
+
+► If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite (and other μControllers) journey  
+
+My channel, GitHub and blog are here:  
+\------------------------------------------------------------------  
+• https://www.youtube.com/RalphBacon  
+• https://ralphbacon.blog  
+• https://github.com/RalphBacon  
+• https://buymeacoffee.com/ralphbacon  
+\------------------------------------------------------------------
+
+My ABOUT page with email address: https://www.youtube.com/c/RalphBacon/about
